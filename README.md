@@ -1,8 +1,8 @@
 # F1 SIMULATOR
 Proyecto desarrollado en la materia de "Programación orientada a objetos" por:
 
+- Carina Mireles Rubio
 - Javier Arias Hernández 
-- Carina Mireles Rubio.
 - Camila Alexandra Salas Hernández
 - Leslie Citali Jaramillo Rodriguez
 
